@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/ethanappolinaireee-create/PalamodLauncher",
   "bugs": {
-    "url": "https://github.com/ethanappolinaireee-create/PalamodLauncher"
+    "url": "https://github.com/ethanappolinaireee-create/PalamodLauncher/issues"
   },
   "private": true,
   "main": "index.js",
